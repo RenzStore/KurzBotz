@@ -1,4 +1,4 @@
-# KurzBotAssistan
+# Renz-Botz
 
 Simpel WhatsApp Bot
 
@@ -55,4 +55,4 @@ Simpel WhatsApp Bot
 
 #### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
 
-#### Recode By : [`KurrXd`](https://youtube.com/c/KurrXd)
+#### Recode By : [`Renzz`](https://youtube.com/c/Renzz Store)
